@@ -35,6 +35,11 @@ Usage
 	cat example.json | prjson key1 | prjson
 
 
+Licence
+-------
+
+MIT Licence
+
 Author
 ------
 
